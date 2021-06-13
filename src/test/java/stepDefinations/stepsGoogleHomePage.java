@@ -12,7 +12,7 @@ import io.cucumber.java.en.When;
 
 public class stepsGoogleHomePage {
 	
-	WebDriver driver = null; // testing dhfk fdfjdfsdf
+	WebDriver driver = null; //
 	String driverPath = "C:\\Users\\sasha\\Documents\\chromedriver\\chromedriver.exe";
 	
 	@Given("I want to launch Chrome")
